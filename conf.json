@@ -1,0 +1,7 @@
+{
+    "DebugPort":1717,
+    "SerCfg":{
+        "Port":3000,
+        "Path":"/root/file_server"
+    }
+}
